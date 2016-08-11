@@ -1,14 +1,15 @@
 {
   "name": "@avinashtelcom/dev",
   "version": "1.0.0",
-  "description": "",
+  "description": "How to NPM",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Avinash Kumar",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/avinashtelcom/how-to-npm.git"
 }
