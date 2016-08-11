@@ -9,7 +9,7 @@
   "author": "Avinash Kumar",
   "license": "ISC",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   },
   "repository": "https://github.com/avinashtelcom/how-to-npm.git"
 }
